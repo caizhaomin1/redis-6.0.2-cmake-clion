@@ -1,0 +1,15 @@
+/opt/redis-6.0.2/CMakeFiles/rebuild_cache.dir
+/opt/redis-6.0.2/CMakeFiles/edit_cache.dir
+/opt/redis-6.0.2/CMakeFiles/redis-cli.dir
+/opt/redis-6.0.2/CMakeFiles/redis-server.dir
+/opt/redis-6.0.2/deps/CMakeFiles/rebuild_cache.dir
+/opt/redis-6.0.2/deps/CMakeFiles/edit_cache.dir
+/opt/redis-6.0.2/deps/hiredis/CMakeFiles/rebuild_cache.dir
+/opt/redis-6.0.2/deps/hiredis/CMakeFiles/edit_cache.dir
+/opt/redis-6.0.2/deps/hiredis/CMakeFiles/hiredis.dir
+/opt/redis-6.0.2/deps/linenoise/CMakeFiles/rebuild_cache.dir
+/opt/redis-6.0.2/deps/linenoise/CMakeFiles/edit_cache.dir
+/opt/redis-6.0.2/deps/linenoise/CMakeFiles/linenoise.dir
+/opt/redis-6.0.2/deps/lua/CMakeFiles/rebuild_cache.dir
+/opt/redis-6.0.2/deps/lua/CMakeFiles/edit_cache.dir
+/opt/redis-6.0.2/deps/lua/CMakeFiles/lua.dir
